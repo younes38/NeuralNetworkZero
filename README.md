@@ -1,4 +1,4 @@
-# DeepLearningZero
+# NeuralNetworkZero
 A deep learning model implemented from scratch using only Numpy.  
 The model predicts (cat, non-cat) pictures.
 
