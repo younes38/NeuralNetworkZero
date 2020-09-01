@@ -1,5 +1,5 @@
 # NeuralNetworkZero
-A deep learning model implemented from scratch using only Numpy.  
+A  neural network implemented from scratch using only Numpy for calculations.  
 The model predicts (cat, non-cat) pictures.
 
 ## Steps
